@@ -3,6 +3,16 @@ A browser interface based on Gradio library for Stable Diffusion.
 
 ![](screenshot.png)
 
+## Added Models
+
+### SD 1.5
+- [magicMIX Realistic](https://civitai.com/models/43331?modelVersionId=55911). Put stable-diffusion models folder.
+- [Negative prompts embedding](https://civitai.com/models/4629/deep-negative-v1x). Put in embeddings folder.
+
+### Lora:
+- [Film Style Photos](https://civitai.com/models/33208/lora). Put in lora models folder.
+- [Script to enable putting in lora block weights in prompt](https://github.com/hako-mikan/sd-webui-lora-block-weight).
+
 ## Features
 [Detailed feature showcase with images](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features):
 - Original txt2img and img2img modes
